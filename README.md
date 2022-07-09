@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @berutodo
 - 👀 I’m interested in Javascript ...
-- 🌱 I’m currently learning Reactjs, Next and Remix. :)
+- 🌱 I’m currently learning Javascript (Nextjs), Ruby on Rails and Elixir.
 - 💞️ I’m looking to collaborate on Open Source Projects...
 - 📫 How to reach me: Twitter.
 
