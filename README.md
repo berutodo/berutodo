@@ -1,6 +1,6 @@
 - 👋 Hi, I’m GABRIEL :)
 - 👀 I’m interested in Javascript ...
-- 🌱 I’m currently learning Javascript (Nextjs), Ruby on Rails and Elixir.
+- 🌱 I’m currently learning Javascript (Nextjs), Ruby on Rails and React Native.
 - 💞️ I’m looking to collaborate on Open Source Projects...
 - 📫 How to reach me: Twitter.
 
