@@ -1,6 +1,6 @@
 - 👋 Hi, I’m GABRIEL :)
 - 👀 I’m interested in Javascript ...
-- 🌱 I’m currently learning Javascript, React (Nextjs, Remix) and React Native.
+- 🌱 I’m currently learning Typescript, React, Nextjs and React Native.
 - 💞️ I’m looking to collaborate on Open Source Projects...
 - 📫 How to reach me: Twitter.
 
